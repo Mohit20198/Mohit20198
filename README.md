@@ -60,8 +60,8 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Your Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit20198&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit20198&layout=compact&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Your Top Languages" />
 </p>
 
 ---
