@@ -4,14 +4,14 @@
 </h1>
 
 <p align="center">
-  A passionate **Data Scientist and MLOps developer**. I love working with the entire data lifecycle—from **exploring raw data to uncover hidden insights**, to building intelligent models and deploying them as scalable, real-world applications on the cloud.
+  A passionate Data Scientist and MLOps developer. I love working with the entire data lifecycle—from exploring raw data to uncover hidden insights, to building intelligent models and deploying them as scalable, real-world applications on the cloud.
 </p>
 
 ---
 
 ### 🚀 What I'm Up To
 
-- 📊 **I’m currently analyzing:** F1 Prediction Dataset, performing exploratory data analysis (EDA) with **Seaborn and Matplotlib** to identify key trends and prepare the data for model building.
+- 📊 **I’m currently analyzing:** **F1 Prediction Dataset**, performing exploratory data analysis (EDA) with **Seaborn and Matplotlib** to identify key trends and prepare the data for model building.
 
 - 🔭 **I’m building:** A CI/CD pipeline using **GitHub Actions** to automate the testing and containerization of a PyTorch image classification model. The final artifact is a versioned **Docker** image pushed to AWS Elastic Container Registry (ECR).
 
@@ -53,7 +53,6 @@
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github-actions/github-actions-icon.svg" alt="github-actions" width="40" height="40"/> </a>
 </p>
 
 ---
