@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  A passionate Data Scientist and MLOps developer. I love working with the entire data lifecycle—from exploring raw data to uncover hidden insights, to building intelligent models and deploying them as scalable, real-world applications on the cloud.
+  A passionate Data Scientist. I love working with the entire data lifecycle—from exploring raw data to uncover hidden insights, to building intelligent models and deploying them as scalable, real-world applications on the cloud.
 </p>
 
 ---
