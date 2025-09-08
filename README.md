@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm [Mohit]! 
+  Hi there, I'm Mohit! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -11,13 +11,12 @@
 
 ### 🤖 About Me
 
-- 🔭 I’m currently working on **[An MLOps pipeline to deploy a custom ANN model]**.
-- 🌱 I’m currently learning **[Advanced AWS services like SageMaker and Kubernetes on EKS]**.
+- 🔭 I’m currently working on **An MLOps pipeline to deploy a custom ANN model**.
+- 🌱 I’m currently learning **Advanced AWS services like SageMaker and Kubernetes on EKS**.
 - 👯 I’m looking to collaborate on **end-to-end Machine Learning projects and cloud infrastructure automation**.
-- 🤔 I’m looking for help with **[A complex topic, e.g., distributed model training]**.
+- 🤔 I’m looking for help with **A complex topic, e.g., distributed model training**.
 - 💬 Ask me about **Python, TensorFlow, PyTorch, Docker, AWS, and building CI/CD pipelines for ML**.
-- 📫 How to reach me: **[Your Email or LinkedIn Profile URL]**.
-- ⚡ Fun fact: **I believe the best models are the ones that make it to production!**
+- ⚡ Fun fact: My models don't just have high accuracy, they have low latency too! 😉
 
 ---
 
@@ -50,11 +49,11 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohit-upadhyay-77a39328a/" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[YOUR-PORTFOLIO-WEBSITE-URL]" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=realm&logoColor=white" alt="Portfolio"/>
+  <a href="mailto:mohit29025@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
