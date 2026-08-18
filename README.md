@@ -67,6 +67,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit20198&layout=compact&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Your Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Mohit20198&theme=dracula&hide_border=true" alt="Your Streak Stats" />
+</p>
+
 ---
 
 ### 📫 Connect with Me
@@ -79,6 +83,17 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+---
+
+### 🐍 Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohit20198/Mohit20198/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohit20198/Mohit20198/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mohit20198/Mohit20198/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 <p align="center">
