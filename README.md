@@ -48,11 +48,48 @@
 
 ## Technical Arsenal
 
-- **LLM Systems & Agents**: LangGraph, LangChain, Groq, OpenAI API, AWS Bedrock
-- **Retrieval & DBs**: Qdrant, ChromaDB, Neo4j, Elasticsearch
-- **Evaluation**: RAGAS, LangSmith, Pydantic Logfire
-- **Machine Learning**: PyTorch, PyTorch Geometric, Scikit-learn, Transformers
-- **Backend & Cloud**: FastAPI, Python, Docker, AWS (Solutions Architect), GitHub Actions
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /><br>GH Actions
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" width="60" alt="LangChain" /><br>LangChain
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" width="60" alt="OpenAI" /><br>OpenAI API
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" width="60" alt="Neo4j" /><br>Neo4j
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Qdrant-D11D51?style=for-the-badge" width="60" alt="Qdrant" /><br>Qdrant
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/ChromaDB-1A1A1A?style=for-the-badge" width="60" alt="ChromaDB" /><br>ChromaDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-Learn" /><br>Scikit-Learn
+    </td>
+  </tr>
+</table>
 
 <br>
 
