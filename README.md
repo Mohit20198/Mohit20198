@@ -1,70 +1,67 @@
 <p align="center">
-  <img src="mohit_profile.svg" alt="Mohit20198's GitHub profile" width="100%" />
+  <img src="mohit_profile.svg" alt="Mohit Upadhyay's GitHub profile" width="100%" />
 </p>
 
 <h1 align="center">
-  Hi there, I'm Mohit! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi there, I'm Mohit! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <p align="center">
-  A passionate Data Scientist. I love working with the entire data lifecycle—from exploring raw data to uncover hidden insights, to building intelligent models and deploying them as scalable, real-world applications on the cloud.
+  <strong>AI/ML Engineer</strong> building production-oriented LLM systems: agentic RAG, API-first services, and multi-provider LLM gateways.<br>
+  I specialize in combining retrieval (Qdrant, ChromaDB), relational reasoning (Neo4j), and agent orchestration (LangGraph, FastAPI) to solve complex enterprise problems.
 </p>
 
----
+<br>
 
-### 🚀 What I'm Up To
+## 💼 Featured Engineering Projects
 
-- 📊 **I’m currently analyzing:** **F1 Prediction Dataset**, performing exploratory data analysis (EDA) with **Seaborn and Matplotlib** to identify key trends and prepare the data for model building.
+### [RAGSentinel — Enterprise Agentic RAG Platform](https://github.com/Mohit20198/RAGSentinel)
+> An enterprise-grade RAG service designed to safely route conversational intent and technical queries using multi-provider fallback architecture.
+- **Architecture**: LangGraph planner routes intents past **NeMo Guardrails**, while all LLM calls pass through a **Portkey gateway** (Groq primary, OpenAI fallback).
+- **Retrieval**: Two-stage **Qdrant + FlashRank** retrieval serving a 1,200+ chunk multi-format corpus.
+- **Evaluation**: Validated via **RAGAS** suite (Tool Correctness: 1.0, Answer Relevancy: 0.93) and heavily traced using **Pydantic Logfire**.
 
-- 🔭 **I’m building:** A CI/CD pipeline using **GitHub Actions** to automate the testing and containerization of a PyTorch image classification model. The final artifact is a versioned **Docker** image pushed to AWS Elastic Container Registry (ECR).
+### [IndustrialIQ — Multi-Agent Knowledge Graph](https://github.com/Mohit20198/ETH)
+> A FastAPI-served reasoning platform designed to resolve multi-hop, relational questions that pure vector search cannot handle.
+- **Graph Reasoning**: LangGraph supervisor generates Cypher to traverse a **Neo4j** knowledge graph.
+- **Hybrid Retrieval**: Combines Graph Retrieval with **ChromaDB** semantic search and cross-encoder reranking.
+- **Impact**: Achieved 100% out-of-scope refusal accuracy and 80% citation-to-source accuracy measured across a custom 30-query evaluation harness.
 
-- 🌱 **I’m learning:** How to effectively use **AWS SageMaker** for distributed training and hyperparameter tuning, and exploring Infrastructure as Code (IaC) with **Terraform** to manage my cloud resources reproducibly.
+### [Temporal GNN Fraud Detection](https://github.com/Mohit20198/temporal-gnn-fraud-detection)
+> Applied Graph Neural Networks (GraphSAGE, GAT) to model relational and temporal fraud patterns across 200K+ cryptocurrency transactions.
+- **Analysis**: Rigorously benchmarked against Random Forest baselines on chronological test splits.
+- **Insight**: Designed a chronological evaluation pipeline tracking PR-AUC and F1, exposing critical real-world temporal drift problems.
 
-- 👯 **I’m looking to collaborate on:** Open-source projects that involve model performance monitoring, creating automated retraining pipelines, or deploying ML models as scalable APIs using tools like **FastAPI** or **Flask**.
+<br>
 
-- 💬 **Ask me about:** Data analysis with **Pandas & NumPy**, creating visualizations with **Matplotlib & Seaborn**, and the end-to-end MLOps lifecycle from model to production.
-  
-- ⚡ **Fun fact:** My models don't just have high accuracy, they have low latency too! 😉
+## 🛠️ Technical Arsenal
 
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=LG&background=1C3C3C&color=fff&size=55" width="55" height="55" /><br>LangGraph</td>
+    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=LC&background=1C3C3C&color=fff&size=55" width="55" height="55" /><br>LangChain</td>
+    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=OpenAI&background=412991&color=fff&size=55" width="55" height="55" /><br>OpenAI</td>
+    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=RAG&background=0D8ABC&color=fff&size=55" width="55" height="55" /><br>RAGAS</td>
+    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=Q&background=5a67d8&color=fff&size=55" width="55" height="55" /><br>Qdrant</td>
+    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=N4J&background=018bff&color=fff&size=55" width="55" height="55" /><br>Neo4j</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55" /><br>FastAPI</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=pytorch" width="55" height="55" /><br>PyTorch</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" /><br>AWS</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" /><br>GH Actions</td>
+  </tr>
+</table>
 
----
+<br>
 
-### 🛠️ My Tech Stack
-
-<p align="left">
-  <strong>Data Analysis & Visualization:</strong><br>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
-</p>
-
-<p align="left">
-  <strong>ML & Frameworks:</strong><br>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
-</p>
-
-<p align="left">
-  <strong>Cloud & MLOps:</strong><br>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
-
----
-
-### 📊 My GitHub Stats
+## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohit20198&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit20198&layout=compact&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Your Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit20198&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Your GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit20198&layout=compact&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Your Top Languages" width="38%" />
 </p>
 
 <p align="center">
@@ -73,7 +70,7 @@
 
 ---
 
-### 📫 Connect with Me
+### 📫 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohit-upadhyay-77a39328a/" target="_blank">
@@ -86,7 +83,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Activity
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohit20198/Mohit20198/output/dist/github-contribution-grid-snake-dark.svg">
