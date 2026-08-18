@@ -13,7 +13,7 @@
 
 <br>
 
-## 💼 Featured Engineering Projects
+## Featured Engineering Projects
 
 ### [RAGSentinel — Enterprise Agentic RAG Platform](https://github.com/Mohit20198/RAGSentinel)
 > An enterprise-grade RAG service designed to safely route conversational intent and technical queries using multi-provider fallback architecture.
@@ -34,7 +34,7 @@
 
 <br>
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 <table align="center">
   <tr>
@@ -57,7 +57,7 @@
 
 <br>
 
-## 📊 GitHub Metrics
+## GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohit20198&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Your GitHub Stats" width="48%" />
@@ -70,7 +70,7 @@
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohit-upadhyay-77a39328a/" target="_blank">
@@ -83,7 +83,7 @@
 
 ---
 
-### 🐍 Contribution Activity
+### Contribution Activity
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohit20198/Mohit20198/output/dist/github-contribution-grid-snake-dark.svg">
