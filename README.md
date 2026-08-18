@@ -104,7 +104,6 @@
 
 ---
 
-### Contribution Activity
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohit20198/Mohit20198/output/github-contribution-grid-snake-dark.svg">
