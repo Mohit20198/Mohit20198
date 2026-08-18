@@ -3,12 +3,24 @@
 </p>
 
 <h1 align="center">
-  Hi there, I'm Mohit! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi there, I'm Mohit!
 </h1>
 
 <p align="center">
   <strong>AI/ML Engineer</strong> building production-oriented LLM systems: agentic RAG, API-first services, and multi-provider LLM gateways.<br>
   I specialize in combining retrieval (Qdrant, ChromaDB), relational reasoning (Neo4j), and agent orchestration (LangGraph, FastAPI) to solve complex enterprise problems.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohit-upadhyay-77a39328a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mohit29025@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="Mohit_Upadhyay_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View_Resume-1F2937?style=flat-square&logo=googledocs&logoColor=white" alt="Resume"/>
+  </a>
 </p>
 
 <br>
@@ -36,24 +48,19 @@
 
 ## Technical Arsenal
 
-<table align="center">
-  <tr>
-    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=LG&background=1C3C3C&color=fff&size=55" width="55" height="55" /><br>LangGraph</td>
-    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=LC&background=1C3C3C&color=fff&size=55" width="55" height="55" /><br>LangChain</td>
-    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=OpenAI&background=412991&color=fff&size=55" width="55" height="55" /><br>OpenAI</td>
-    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=RAG&background=0D8ABC&color=fff&size=55" width="55" height="55" /><br>RAGAS</td>
-    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=Q&background=5a67d8&color=fff&size=55" width="55" height="55" /><br>Qdrant</td>
-    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=N4J&background=018bff&color=fff&size=55" width="55" height="55" /><br>Neo4j</td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55" /><br>FastAPI</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=pytorch" width="55" height="55" /><br>PyTorch</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" /><br>AWS</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" /><br>GH Actions</td>
-  </tr>
-</table>
+- **LLM Systems & Agents**: LangGraph, LangChain, Groq, OpenAI API, AWS Bedrock
+- **Retrieval & DBs**: Qdrant, ChromaDB, Neo4j, Elasticsearch
+- **Evaluation**: RAGAS, LangSmith, Pydantic Logfire
+- **Machine Learning**: PyTorch, PyTorch Geometric, Scikit-learn, Transformers
+- **Backend & Cloud**: FastAPI, Python, Docker, AWS (Solutions Architect), GitHub Actions
+
+<br>
+
+## Certifications
+
+- **AWS Certified Solutions Architect – Associate (SAA-C03)** (2026)
+- **Oracle Cloud Infrastructure Data Science Professional** (2025)
+- **University of Michigan – Applied Machine Learning in Python** (2025)
 
 <br>
 
@@ -66,19 +73,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Mohit20198&theme=dracula&hide_border=true" alt="Your Streak Stats" />
-</p>
-
----
-
-### Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohit-upadhyay-77a39328a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mohit29025@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
 
 ---
