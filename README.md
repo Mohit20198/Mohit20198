@@ -18,7 +18,7 @@
   <a href="mailto:mohit29025@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="Mohit_Upadhyay_Resume.pdf" target="_blank">
+  <a href="https://github.com/Mohit20198/MY_RESUME" target="_blank">
     <img src="https://img.shields.io/badge/View_Resume-1F2937?style=flat-square&logo=googledocs&logoColor=white" alt="Resume"/>
   </a>
 </p>
