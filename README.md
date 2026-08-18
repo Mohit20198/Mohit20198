@@ -60,6 +60,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -68,11 +69,19 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/Groq-F54E27?style=for-the-badge" alt="Groq" />
+  <img src="https://img.shields.io/badge/RAGAS-0B1120?style=for-the-badge" alt="RAGAS" />
+  <img src="https://img.shields.io/badge/NeMo%20Guardrails-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NeMo Guardrails" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Qdrant-D11D51?style=for-the-badge" alt="Qdrant" />
   <img src="https://img.shields.io/badge/ChromaDB-1A1A1A?style=for-the-badge" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
   <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ElasticSearch" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic Logfire" />
 </p>
 
 <p align="left">
@@ -91,16 +100,7 @@
 
 <br>
 
-## GitHub Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohit20198&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Your GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit20198&layout=compact&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Your Top Languages" width="38%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mohit20198&theme=dracula&hide_border=true" alt="Your Streak Stats" />
-</p>
 
 ---
 
